@@ -1,4 +1,14 @@
 img{
 	width: 250px;
-	height:300px;
+	height:320px;
 }
+body{
+	background-image: url("https://www.shutterstock.com/image-vector/earth-tone-watercolor-background-your-260nw-2075953801.jpg");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-size:100%
+}
+div{margin-bottom:30px}
+
+
+
